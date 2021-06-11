@@ -1,7 +1,6 @@
 #submit_button {
     margin-top: 20px;
     margin-bottom: 20px;
-    font-family: "Segoe UI", sans-serif;
 }
 
 #sort_button {
@@ -13,4 +12,10 @@
 input {
     margin: 10px;
     font-family: inherit;
+}
+
+body {
+    background-color: purple;
+    color: green;
+    font-family: "Segoe UI", sans-serif;
 }
